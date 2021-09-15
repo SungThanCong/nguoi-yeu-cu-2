@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nguoi-yeu-cu-2/static/css/main.7c2ac3e7.chunk.css",
+    "main.js": "/nguoi-yeu-cu-2/static/js/main.47abcb79.chunk.js",
+    "main.js.map": "/nguoi-yeu-cu-2/static/js/main.47abcb79.chunk.js.map",
+    "runtime-main.js": "/nguoi-yeu-cu-2/static/js/runtime-main.ced721df.js",
+    "runtime-main.js.map": "/nguoi-yeu-cu-2/static/js/runtime-main.ced721df.js.map",
+    "static/js/2.f522d9e8.chunk.js": "/nguoi-yeu-cu-2/static/js/2.f522d9e8.chunk.js",
+    "static/js/2.f522d9e8.chunk.js.map": "/nguoi-yeu-cu-2/static/js/2.f522d9e8.chunk.js.map",
+    "index.html": "/nguoi-yeu-cu-2/index.html",
+    "static/css/main.7c2ac3e7.chunk.css.map": "/nguoi-yeu-cu-2/static/css/main.7c2ac3e7.chunk.css.map",
+    "static/js/2.f522d9e8.chunk.js.LICENSE.txt": "/nguoi-yeu-cu-2/static/js/2.f522d9e8.chunk.js.LICENSE.txt",
+    "static/media/avt.47ccb733.png": "/nguoi-yeu-cu-2/static/media/avt.47ccb733.png",
+    "static/media/App.css": "/nguoi-yeu-cu-2/static/media/img-sky.719a4789.jpg",
+    "static/media/Update.css": "/nguoi-yeu-cu-2/static/media/sea.f18f023d.jpg",
+    "static/media/OldGirl.css": "/nguoi-yeu-cu-2/static/media/tim.eef40b06.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ced721df.js",
+    "static/js/2.f522d9e8.chunk.js",
+    "static/css/main.7c2ac3e7.chunk.css",
+    "static/js/main.47abcb79.chunk.js"
+  ]
+}
